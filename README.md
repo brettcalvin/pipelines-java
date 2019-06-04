@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/argentum960/BrettSandbox/_apis/build/status/brettcalvin.pipelines-java?branchName=master)](https://dev.azure.com/argentum960/BrettSandbox/_build/latest?definitionId=84&branchName=master)
 
 # Contributing
 
